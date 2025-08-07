@@ -1,4 +1,7 @@
-# 🐧💀 BARNEY_OS — The Developer’s Nightmare Fuel 💀🐧
+# <img width="48" src="https://media.discordapp.net/attachments/1068711680718151803/1403146905474826360/raw.png?ex=68967de3&is=68952c63&hm=5774bd7c8c4979f6f655ff7c4cea23ed7b51e77b949addf3b29e3fd703fa9dac&=&format=webp&quality=lossless&width=875&height=875" alt="Barney_OS logo">   
+
+
+ 🐧💀 BARNEY_OS — The Developer’s Nightmare Fuel 💀🐧
 **Project by:** Tasa & Achitodev  
 > _"No es solo un sistema… es tu nueva adicción."_  
 
